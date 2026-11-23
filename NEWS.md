@@ -1,3 +1,10 @@
+# OmniCorr 0.99.4
+
+## Maintenance
+- Cleaned the Git history to remove large source datasets, which are now available on Zenodo.
+- Updated the package version to trigger a new Bioconductor build.
+
+
 # OmniCorr 0.99.3
 
 ## Documentation
