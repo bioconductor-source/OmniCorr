@@ -1,6 +1,6 @@
 Package: OmniCorr
 Title: Multi-Omics Integration and Visualization Framework
-Version: 0.99.3
+Version: 0.99.4
 Authors@R:
     c(
         person(
